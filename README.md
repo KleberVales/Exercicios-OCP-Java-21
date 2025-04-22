@@ -1,0 +1,12 @@
+# Exercicios-OCP-Java-21
+
+## Concorrência
+
+### Exercício 1: Contador Simples com Runnable
+Objetivo: Criar uma classe que conte de 1 a 5, com intervalo de 1 segundo entre os números.
+
+### Exercício 2: Simulando Acesso a um Recurso com Thread
+Objetivo: Criar uma classe que estenda Thread e simule acesso a um recurso compartilhado (por exemplo, uma impressora).
+
+### Exercício 3: Corrida de Threads
+Objetivo: Criar uma corrida onde cada thread representa um corredor. Vence quem terminar primeiro.
