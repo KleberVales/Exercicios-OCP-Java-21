@@ -15,3 +15,5 @@ Objetivo: Criar uma corrida onde cada thread representa um corredor. Vence quem 
 
 ### 1. I/O Tradicional (java.io): Copiar o conteúdo de um arquivo
 Objetivo: Ler um arquivo de texto e copiar seu conteúdo para outro arquivo usando FileReader e FileWriter.
+
+### 2. NIO (java.nio): Ler bytes de um arquivo em bloco
