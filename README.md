@@ -20,3 +20,4 @@ Objetivo: Ler um arquivo de texto e copiar seu conteúdo para outro arquivo usan
 Objetivo: Ler o conteúdo de um arquivo como blocos de bytes usando FileChannel e ByteBuffer.
 
 ### 3. NIO.2 (java.nio.file): Listar arquivos de um diretório
+Objetivo: Listar todos os arquivos de um diretório usando Files e Path.
