@@ -10,3 +10,5 @@ Objetivo: Criar uma classe que estenda Thread e simule acesso a um recurso compa
 
 ### Exercício 3: Corrida de Threads
 Objetivo: Criar uma corrida onde cada thread representa um corredor. Vence quem terminar primeiro.
+
+## Java I/O
