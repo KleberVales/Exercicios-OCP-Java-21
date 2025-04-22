@@ -12,3 +12,5 @@ Objetivo: Criar uma classe que estenda Thread e simule acesso a um recurso compa
 Objetivo: Criar uma corrida onde cada thread representa um corredor. Vence quem terminar primeiro.
 
 ## Java I/O
+
+### 1. I/O Tradicional (java.io): Copiar o conteúdo de um arquivo
