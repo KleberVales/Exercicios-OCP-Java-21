@@ -1,4 +1,4 @@
-package EntradaESaida;
+package javaIO;
 
 import java.io.FileInputStream;
 import java.nio.ByteBuffer;

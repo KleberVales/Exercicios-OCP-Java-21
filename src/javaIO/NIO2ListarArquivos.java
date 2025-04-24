@@ -1,4 +1,4 @@
-package EntradaESaida;
+package javaIO;
 
 import java.io.IOException;
 import java.nio.file.*;
