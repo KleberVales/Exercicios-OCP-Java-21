@@ -8,6 +8,9 @@ Objetivo: Praticar a criação de objetos e o uso de variáveis.
 ### 2. Destruição de Objetos e Coleta de Lixo (Garbage Collector)
 Objetivo: Compreender a destruição de objetos e como o garbage collector funciona.
 
+### 3. Tipos e Escopo de Variáveis
+Objetivo: Entender a diferença entre variáveis de instância, locais e estáticas, além dos tipos.
+
 ## Concorrência
 
 ### 1. Contador Simples com Runnable
