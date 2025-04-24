@@ -1,5 +1,10 @@
 package javaIO;
 
+/*
+    O objetivo do exercicio é ler o conteúdo de um arquivo como
+    blocos de bytes usando FileChannel e ByteBuffer.
+ */
+
 import java.io.FileInputStream;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;

@@ -1,5 +1,10 @@
 package javaIO;
 
+/*
+O objetivo do programa é ler um arquivo de texto e copiar seu
+conteúdo para outro arquivo usando FileReader e FileWriter.
+ */
+
 import java.io.FileInputStream;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
