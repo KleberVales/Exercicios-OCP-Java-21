@@ -2,6 +2,9 @@
 
 ## Fundamentos do Java
 
+### 1. Criando e Usando Objetos
+Objetivo: Praticar a criação de objetos e o uso de variáveis.
+
 ## Concorrência
 
 ### 1. Contador Simples com Runnable
