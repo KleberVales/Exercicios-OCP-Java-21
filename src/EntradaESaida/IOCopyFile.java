@@ -1,29 +1,29 @@
 package EntradaESaida;
 
-import java.io.*;
+import java.io.FileInputStream;
+import java.nio.ByteBuffer;
+import java.nio.channels.FileChannel;
 
 public class IOCopyFile {
-
     public static void main(String[] args) {
-        File entrada = new File("entrada.txt");
-        File saida = new File("saida.txt");
+        try(FileInputStream fis = new FileInputStream("entrada.txt");
+            FileChannel channel = fis.getChannel()){
 
-        try(BufferedReader read = new BufferedReader(new FileReader(entrada));
-            BufferedWriter write = new BufferedWriter(new FileWriter(saida))){
+            ByteBuffer buffer = ByteBuffer.allocate(1024);
 
-            String linha;
+            while (channel.read(buffer) > 0){
 
-            while((linha = read.readLine()) != null){
-
-                write.write(linha);
-                write.newLine();
+                buffer.flip();
+                while (buffer.hasRemaining()){
+                    System.out.print((char)buffer.get());
+                }
+                buffer.clear();
             }
 
-            System.out.println("Copiado com sucesso.");
-
-        }catch(IOException e){
+        }catch(Exception e){
             e.printStackTrace();
         }
     }
+
 
 }
