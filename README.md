@@ -5,6 +5,9 @@
 ### 1. Criando e Usando Objetos
 Objetivo: Praticar a criação de objetos e o uso de variáveis.
 
+### 2. Destruição de Objetos e Coleta de Lixo (Garbage Collector)
+Objetivo: Compreender a destruição de objetos e como o garbage collector funciona.
+
 ## Concorrência
 
 ### 1. Contador Simples com Runnable
