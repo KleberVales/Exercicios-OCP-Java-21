@@ -1,5 +1,7 @@
 package fundamentosDeJava;
 
+// Compreender a destruição de objetos e como o garbage collector funciona.
+
 class Pessoa {
     String nome;
 
