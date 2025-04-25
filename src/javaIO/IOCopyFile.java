@@ -1,34 +1,32 @@
 package javaIO;
 
 /*
-O objetivo do programa é ler um arquivo de texto e copiar seu
+O objetivo do programa é
+ler um arquivo de texto e copiar seu
 conteúdo para outro arquivo usando FileReader e FileWriter.
  */
 
-import java.io.FileInputStream;
-import java.nio.ByteBuffer;
-import java.nio.channels.FileChannel;
+import java.io.*;
 
 public class IOCopyFile {
+
     public static void main(String[] args) {
-        try(FileInputStream fis = new FileInputStream("entrada.txt");
-            FileChannel channel = fis.getChannel()){
+        File origem = new File("entrada.txt");
+        File destino = new File("saida.txt");
 
-            ByteBuffer buffer = ByteBuffer.allocate(1024);
+        try(BufferedReader reader = new BufferedReader(new FileReader(origem));
+        BufferedWriter write = new BufferedWriter(new FileWriter(destino))){
 
-            while (channel.read(buffer) > 0){
-
-                buffer.flip();
-                while (buffer.hasRemaining()){
-                    System.out.print((char)buffer.get());
-                }
-                buffer.clear();
+            String linha;
+            while((linha = reader.readLine()) != null){
+                write.write(linha);
+                write.newLine();
             }
 
-        }catch(Exception e){
+        }catch(IOException e){
             e.printStackTrace();
         }
+        System.out.println("Arquivo copiado com sucesso");
+
     }
-
-
 }
