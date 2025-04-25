@@ -1,5 +1,7 @@
 package fundamentosDeJava;
 
+// Praticar a criação de objetos e o uso de variáveis.
+
 class Carro {
     String modelo;
     int ano;
