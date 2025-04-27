@@ -20,6 +20,8 @@ Faça um programa que peça dois números e:\
 Verifique se o primeiro número é maior que o segundo e positivo.\
 Verifique se os dois números são diferentes ou iguais a zero.
 
+### 3. Operador Ternário
+
 ## Concorrência
 
 ### 1. Contador Simples com Runnable
