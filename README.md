@@ -12,7 +12,8 @@ Objetivo: Compreender a destruição de objetos e como o garbage collector funci
 Objetivo: Entender a diferença entre variáveis de instância, locais e estáticas, além dos tipos.
 
 ## Operadores
-### 1. Crie um programa que receba dois números inteiros e exiba: A soma, A subtração, A multiplicação, A divisão e O resto da divisão (módulo) 
+### 1. Crie um programa que receba dois números inteiros e exiba: 
+A soma, A subtração, A multiplicação, A divisão e O resto da divisão (módulo) 
 
 ## Concorrência
 
