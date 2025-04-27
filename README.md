@@ -21,6 +21,9 @@ Verifique se o primeiro número é maior que o segundo e positivo.\
 Verifique se os dois números são diferentes ou iguais a zero.
 
 ### 3. Operador Ternário
+Peça a idade do usuário e use operador ternário para exibir:\
+"Maior de idade" se a idade for 18 ou mais\
+"Menor de idade" caso contrário
 
 ## Concorrência
 
