@@ -13,7 +13,12 @@ Objetivo: Entender a diferença entre variáveis de instância, locais e estáti
 
 ## Operadores
 ### 1. Crie um programa que receba dois números inteiros e exiba: 
-A soma, A subtração, A multiplicação, A divisão e O resto da divisão (módulo) 
+A soma, A subtração, A multiplicação, A divisão e O resto da divisão (módulo)
+
+### 2. Operadores Relacionais e Lógicos
+Faça um programa que peça dois números e:
+Verifique se o primeiro número é maior que o segundo e positivo.
+Verifique se os dois números são diferentes ou iguais a zero.
 
 ## Concorrência
 
