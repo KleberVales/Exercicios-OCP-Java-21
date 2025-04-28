@@ -21,6 +21,9 @@ public class DestruirObjeto {
     public static void main(String[] args) {
         Pessoa p1 = new Pessoa("João");
 
+
+
+
         // Tornando o objeto elegível para o garbage collector
         p1 = null;
 
