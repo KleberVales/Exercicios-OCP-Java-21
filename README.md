@@ -11,6 +11,20 @@ Objetivo: Compreender a destruição de objetos e como o garbage collector funci
 ### 3. Tipos e Escopo de Variáveis
 Objetivo: Entender a diferença entre variáveis de instância, locais e estáticas, além dos tipos.
 
+## Operadores
+### 1. Crie um programa que receba dois números inteiros e exiba: 
+A soma, A subtração, A multiplicação, A divisão e O resto da divisão (módulo)
+
+### 2. Operadores Relacionais e Lógicos
+Faça um programa que peça dois números e:\
+Verifique se o primeiro número é maior que o segundo e positivo.\
+Verifique se os dois números são diferentes ou iguais a zero.
+
+### 3. Operador Ternário
+Peça a idade do usuário e use operador ternário para exibir:\
+"Maior de idade" se a idade for 18 ou mais\
+"Menor de idade" caso contrário
+
 ## Concorrência
 
 ### 1. Contador Simples com Runnable
