@@ -27,6 +27,9 @@ Peça a idade do usuário e use operador ternário para exibir:\
 
 ## Estrutura de decisão
 
+### 1. Cálculo de média com operadores aritméticos
+Objetivo: Praticar operadores aritméticos (+, /).
+
 ## Concorrência
 
 ### 1. Contador Simples com Runnable
