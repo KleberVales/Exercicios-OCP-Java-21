@@ -30,6 +30,9 @@ Peça a idade do usuário e use operador ternário para exibir:\
 ### 1. Cálculo de média com operadores aritméticos
 Objetivo: Praticar operadores aritméticos (+, /).
 
+### 2. Verificação de maioridade com operador relacional
+Objetivo: Praticar operadores relacionais (>=) e condicionais (if).
+
 ## Concorrência
 
 ### 1. Contador Simples com Runnable
