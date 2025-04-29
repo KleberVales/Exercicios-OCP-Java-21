@@ -27,14 +27,8 @@ Peça a idade do usuário e use operador ternário para exibir:\
 
 ## Estrutura de decisão
 
-### 1. Cálculo de média com operadores aritméticos
-Objetivo: Praticar operadores aritméticos (+, /).
-
-### 2. Verificação de maioridade com operador relacional
-Objetivo: Praticar operadores relacionais (>=) e condicionais (if).
-
-### 3. Verificação de múltiplos com operadores lógicos e aritméticos
-Objetivo: Praticar operadores lógicos (&&), módulo (%) e relacionais (==).
+### 1. Verificar se um número é positivo, negativo ou zero
+Escreva um programa que leia um número inteiro do usuário e informe se ele é positivo, negativo ou zero.
 
 ## Concorrência
 
