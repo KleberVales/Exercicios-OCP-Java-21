@@ -25,6 +25,8 @@ Peça a idade do usuário e use operador ternário para exibir:\
 "Maior de idade" se a idade for 18 ou mais\
 "Menor de idade" caso contrário
 
+## Estrutura de decisão
+
 ## Concorrência
 
 ### 1. Contador Simples com Runnable
