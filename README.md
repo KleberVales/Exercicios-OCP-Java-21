@@ -33,6 +33,9 @@ Objetivo: Praticar operadores aritméticos (+, /).
 ### 2. Verificação de maioridade com operador relacional
 Objetivo: Praticar operadores relacionais (>=) e condicionais (if).
 
+### 3. Verificação de múltiplos com operadores lógicos e aritméticos
+Objetivo: Praticar operadores lógicos (&&), módulo (%) e relacionais (==).
+
 ## Concorrência
 
 ### 1. Contador Simples com Runnable
