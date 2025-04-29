@@ -30,6 +30,9 @@ Peça a idade do usuário e use operador ternário para exibir:\
 ### 1. Verificar se um número é positivo, negativo ou zero
 Escreva um programa que leia um número inteiro do usuário e informe se ele é positivo, negativo ou zero.
 
+### 2. Verificar se uma pessoa pode votar
+Faça um programa que leia a idade de uma pessoa e diga se ela não pode votar (menor de 16 anos), voto opcional (entre 16 e 17 ou maior de 65 anos) ou voto obrigatório (entre 18 e 65 anos inclusive).
+
 ## Concorrência
 
 ### 1. Contador Simples com Runnable
