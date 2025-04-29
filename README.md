@@ -33,6 +33,9 @@ Escreva um programa que leia um número inteiro do usuário e informe se ele é 
 ### 2. Verificar se uma pessoa pode votar
 Faça um programa que leia a idade de uma pessoa e diga se ela não pode votar (menor de 16 anos), voto opcional (entre 16 e 17 ou maior de 65 anos) ou voto obrigatório (entre 18 e 65 anos inclusive).
 
+### 3. Calculadora simples
+Peça dois números ao usuário e depois peça a operação desejada (+, -, *, /). Use uma estrutura de decisão para calcular o resultado com base na operação escolhida.
+
 ## Concorrência
 
 ### 1. Contador Simples com Runnable
