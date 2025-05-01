@@ -37,6 +37,10 @@ Faça um programa que leia a idade de uma pessoa e diga se ela não pode votar (
 Peça dois números ao usuário e depois peça a operação desejada (+, -, *, /). Use uma estrutura de decisão para calcular o resultado com base na operação escolhida.
 
 ## Core Apps
+### 1. Herança
+Crie uma classe chamada Pessoa com os atributos nome e idade, e um método apresentar() que imprime esses dados.
+Em seguida, crie uma subclasse chamada Estudante que herda de Pessoa e adiciona o atributo curso e o método estudar(), que imprime que o estudante está estudando determinado curso.
+Instancie um objeto da classe Estudante, chame o método herdado apresentar() e o método estudar().
 
 ## Concorrência
 
