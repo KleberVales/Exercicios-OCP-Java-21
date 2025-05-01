@@ -48,6 +48,13 @@ Depois, crie uma subclasse chamada Cachorro que implementa o método emitirSom()
 No método main, crie um objeto Cachorro usando o tipo abstrato Animal e chame o método emitirSom().
 
 ### 3. Objeto Imutável
+Implemente uma classe Produto que represente um produto com os atributos nome e preco.
+- A classe deve ser imutável, ou seja:
+- Os atributos devem ser private final
+- Não deve haver métodos set
+- O construtor deve receber os valores e armazená-los nos atributos
+- A classe deve ser final
+- No método main, crie um objeto da classe Produto e imprima suas informações.
 
 ## Concorrência
 
