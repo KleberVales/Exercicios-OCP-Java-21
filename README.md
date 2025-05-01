@@ -36,6 +36,26 @@ Faça um programa que leia a idade de uma pessoa e diga se ela não pode votar (
 ### 3. Calculadora simples
 Peça dois números ao usuário e depois peça a operação desejada (+, -, *, /). Use uma estrutura de decisão para calcular o resultado com base na operação escolhida.
 
+## Core Apps
+### 1. Herança
+Crie uma classe chamada Pessoa com os atributos nome e idade, e um método apresentar() que imprime esses dados.
+Em seguida, crie uma subclasse chamada Estudante que herda de Pessoa e adiciona o atributo curso e o método estudar(), que imprime que o estudante está estudando determinado curso.
+Instancie um objeto da classe Estudante, chame o método herdado apresentar() e o método estudar().
+
+### 2. Classe Abstrata
+Crie uma classe abstrata chamada Animal com o atributo nome e um método abstrato emitirSom().
+Depois, crie uma subclasse chamada Cachorro que implementa o método emitirSom() exibindo "Au Au!".
+No método main, crie um objeto Cachorro usando o tipo abstrato Animal e chame o método emitirSom().
+
+### 3. Objeto Imutável
+Implemente uma classe Produto que represente um produto com os atributos nome e preco.
+- A classe deve ser imutável, ou seja:
+- Os atributos devem ser private final
+- Não deve haver métodos set
+- O construtor deve receber os valores e armazená-los nos atributos
+- A classe deve ser final
+- No método main, crie um objeto da classe Produto e imprima suas informações.
+
 ## Concorrência
 
 ### 1. Contador Simples com Runnable
