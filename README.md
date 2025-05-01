@@ -36,6 +36,8 @@ Faça um programa que leia a idade de uma pessoa e diga se ela não pode votar (
 ### 3. Calculadora simples
 Peça dois números ao usuário e depois peça a operação desejada (+, -, *, /). Use uma estrutura de decisão para calcular o resultado com base na operação escolhida.
 
+## Core Apps
+
 ## Concorrência
 
 ### 1. Contador Simples com Runnable
