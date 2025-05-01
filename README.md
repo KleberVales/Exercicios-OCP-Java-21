@@ -42,6 +42,8 @@ Crie uma classe chamada Pessoa com os atributos nome e idade, e um método apres
 Em seguida, crie uma subclasse chamada Estudante que herda de Pessoa e adiciona o atributo curso e o método estudar(), que imprime que o estudante está estudando determinado curso.
 Instancie um objeto da classe Estudante, chame o método herdado apresentar() e o método estudar().
 
+### 2. Classe Abstrata
+
 ## Concorrência
 
 ### 1. Contador Simples com Runnable
