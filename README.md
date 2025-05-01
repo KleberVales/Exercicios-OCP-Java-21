@@ -43,6 +43,9 @@ Em seguida, crie uma subclasse chamada Estudante que herda de Pessoa e adiciona 
 Instancie um objeto da classe Estudante, chame o método herdado apresentar() e o método estudar().
 
 ### 2. Classe Abstrata
+Crie uma classe abstrata chamada Animal com o atributo nome e um método abstrato emitirSom().
+Depois, crie uma subclasse chamada Cachorro que implementa o método emitirSom() exibindo "Au Au!".
+No método main, crie um objeto Cachorro usando o tipo abstrato Animal e chame o método emitirSom().
 
 ## Concorrência
 
