@@ -58,7 +58,14 @@ Implemente uma classe Produto que represente um produto com os atributos nome e 
 
 ## Lambdas and Functional Interfaces
 
-### 1. Variáveis Mutáveis e Lambda
+### 1. Variável Efetivamente Final
+
+Você deve criar uma expressão lambda que utilize uma variável externa chamada limite, que determina se um número é menor que esse valor. Após criar a lambda, tente modificar o valor da variável limite e observe o comportamento do compilador.
+
+Objetivo:
+Compreender o conceito de variáveis efetivamente finais no contexto de expressões lambda.
+
+### 3. Variáveis Mutáveis e Lambda
 
 Crie uma lista de números inteiros e utilize o método forEach com uma expressão lambda para calcular a soma de todos os elementos. Utilize uma variável acumuladora para armazenar o resultado. Tente usar uma variável primitiva comum (int soma = 0) e observe por que isso não funciona. Em seguida, modifique o código para usar uma estrutura que permita mutabilidade.
 
