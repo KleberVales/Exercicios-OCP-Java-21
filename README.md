@@ -60,6 +60,11 @@ Implemente uma classe Produto que represente um produto com os atributos nome e 
 
 ### 1. Variáveis Mutáveis e Lambda
 
+Crie uma lista de números inteiros e utilize o método forEach com uma expressão lambda para calcular a soma de todos os elementos. Utilize uma variável acumuladora para armazenar o resultado. Tente usar uma variável primitiva comum (int soma = 0) e observe por que isso não funciona. Em seguida, modifique o código para usar uma estrutura que permita mutabilidade.
+
+Objetivo:
+Explorar as restrições do uso de variáveis mutáveis dentro de lambdas e como contorná-las utilizando estruturas como arrays ou objetos.
+
 ## Concorrência
 
 ### 1. Contador Simples com Runnable
