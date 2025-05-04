@@ -65,6 +65,13 @@ Você deve criar uma expressão lambda que utilize uma variável externa chamada
 Objetivo:
 Compreender o conceito de variáveis efetivamente finais no contexto de expressões lambda.
 
+### 2. Escopo em Loop com Lambda
+Enunciado:
+Dado uma lista de nomes, crie um loop que percorra essa lista e, para cada nome, crie uma nova Thread que imprime o nome e seu índice. Use uma expressão lambda na criação da Thread. Tente utilizar a variável de controle do loop diretamente dentro da lambda e observe o erro gerado.
+
+Objetivo:
+Entender como variáveis são capturadas dentro de lambdas e a necessidade de usar variáveis auxiliares (efetivamente finais) em estruturas de repetição.
+
 ### 3. Variáveis Mutáveis e Lambda
 
 Crie uma lista de números inteiros e utilize o método forEach com uma expressão lambda para calcular a soma de todos os elementos. Utilize uma variável acumuladora para armazenar o resultado. Tente usar uma variável primitiva comum (int soma = 0) e observe por que isso não funciona. Em seguida, modifique o código para usar uma estrutura que permita mutabilidade.
