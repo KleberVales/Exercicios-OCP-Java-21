@@ -86,8 +86,8 @@ Explorar as restrições do uso de variáveis mutáveis dentro de lambdas e como
 #### 1. Referência a método estático
 Objetivo: Criar uma lista de inteiros e imprimir o dobro de cada número usando uma method reference.
 
-### Referência a método estático
-Objetivo: Criar uma lista de inteiros e imprimir o dobro de cada número usando uma method reference.
+### 2. Referência a método de instância de um objeto arbitrário
+Objetivo: Criar uma lista de nomes e ordená-los ignorando maiúsculas e minúsculas.
 
 ## Concorrência
 
