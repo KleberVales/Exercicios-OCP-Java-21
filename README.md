@@ -81,6 +81,8 @@ Crie uma lista de números inteiros e utilize o método forEach com uma express�
 Objetivo:
 Explorar as restrições do uso de variáveis mutáveis dentro de lambdas e como contorná-las utilizando estruturas como arrays ou objetos.
 
+### Methods References
+
 ### Referência a método estático
 Objetivo: Criar uma lista de inteiros e imprimir o dobro de cada número usando uma method reference.
 
