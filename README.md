@@ -89,6 +89,9 @@ Objetivo: Criar uma lista de inteiros e imprimir o dobro de cada número usando 
 ### 2. Referência a método de instância de um objeto arbitrário
 Objetivo: Criar uma lista de nomes e ordená-los ignorando maiúsculas e minúsculas.
 
+### 3. Referência a construtor
+Objetivo: Criar objetos a partir de uma lista de nomes, utilizando referência a construtor.
+
 ## Concorrência
 
 ### 1. Contador Simples com Runnable
