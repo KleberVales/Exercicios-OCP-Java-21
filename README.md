@@ -83,13 +83,13 @@ Explorar as restrições do uso de variáveis mutáveis dentro de lambdas e como
 
 ### Methods References
 
-#### 1. Referência a método estático
+#### 4. Referência a método estático
 Objetivo: Criar uma lista de inteiros e imprimir o dobro de cada número usando uma method reference.
 
-### 2. Referência a método de instância de um objeto arbitrário
+### 5. Referência a método de instância de um objeto arbitrário
 Objetivo: Criar uma lista de nomes e ordená-los ignorando maiúsculas e minúsculas.
 
-### 3. Referência a construtor
+### 6. Referência a construtor
 Objetivo: Criar objetos a partir de uma lista de nomes, utilizando referência a construtor.
 
 ## Concorrência
