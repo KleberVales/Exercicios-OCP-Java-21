@@ -58,7 +58,7 @@ Implemente uma classe Produto que represente um produto com os atributos nome e 
 
 ## Lambdas and Functional Interfaces
 
-### 1. Variável Efetivamente Final
+#### 1. Variável Efetivamente Final
 
 Você deve criar uma expressão lambda que utilize uma variável externa chamada limite, que determina se um número é menor que esse valor. Após criar a lambda, tente modificar o valor da variável limite e observe o comportamento do compilador.
 
@@ -78,6 +78,9 @@ Crie uma lista de números inteiros e utilize o método forEach com uma express�
 
 Objetivo:
 Explorar as restrições do uso de variáveis mutáveis dentro de lambdas e como contorná-las utilizando estruturas como arrays ou objetos.
+
+### Referência a método estático
+Objetivo: Criar uma lista de inteiros e imprimir o dobro de cada número usando uma method reference.
 
 ## Concorrência
 
