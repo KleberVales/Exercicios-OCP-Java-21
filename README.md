@@ -58,26 +58,39 @@ Implemente uma classe Produto que represente um produto com os atributos nome e 
 
 ## Lambdas and Functional Interfaces
 
-### 1. Variável Efetivamente Final
+### Lambda
+
+#### 1. Variável Efetivamente Final
 
 Você deve criar uma expressão lambda que utilize uma variável externa chamada limite, que determina se um número é menor que esse valor. Após criar a lambda, tente modificar o valor da variável limite e observe o comportamento do compilador.
 
 Objetivo:
 Compreender o conceito de variáveis efetivamente finais no contexto de expressões lambda.
 
-### 2. Escopo em Loop com Lambda
+#### 2. Escopo em Loop com Lambda
 Enunciado:
 Dado uma lista de nomes, crie um loop que percorra essa lista e, para cada nome, crie uma nova Thread que imprime o nome e seu índice. Use uma expressão lambda na criação da Thread. Tente utilizar a variável de controle do loop diretamente dentro da lambda e observe o erro gerado.
 
 Objetivo:
 Entender como variáveis são capturadas dentro de lambdas e a necessidade de usar variáveis auxiliares (efetivamente finais) em estruturas de repetição.
 
-### 3. Variáveis Mutáveis e Lambda
+#### 3. Variáveis Mutáveis e Lambda
 
 Crie uma lista de números inteiros e utilize o método forEach com uma expressão lambda para calcular a soma de todos os elementos. Utilize uma variável acumuladora para armazenar o resultado. Tente usar uma variável primitiva comum (int soma = 0) e observe por que isso não funciona. Em seguida, modifique o código para usar uma estrutura que permita mutabilidade.
 
 Objetivo:
 Explorar as restrições do uso de variáveis mutáveis dentro de lambdas e como contorná-las utilizando estruturas como arrays ou objetos.
+
+### Methods References
+
+#### 4. Referência a método estático
+Objetivo: Criar uma lista de inteiros e imprimir o dobro de cada número usando uma method reference.
+
+### 5. Referência a método de instância de um objeto arbitrário
+Objetivo: Criar uma lista de nomes e ordená-los ignorando maiúsculas e minúsculas.
+
+### 6. Referência a construtor
+Objetivo: Criar objetos a partir de uma lista de nomes, utilizando referência a construtor.
 
 ## Concorrência
 
