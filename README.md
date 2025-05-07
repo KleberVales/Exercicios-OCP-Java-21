@@ -118,6 +118,18 @@ Armazene as palavras em um HashSet.
 
 Ao final, exiba todas as palavras digitadas, sem repetições.
 
+### 3. Agenda Telefônica com Map
+Objetivo: Usar HashMap para associar chaves e valores.
+
+Descrição:
+Crie uma agenda telefônica simples que:
+
+Permita adicionar nomes e números de telefone (chave = nome, valor = telefone).
+
+Permita buscar um telefone pelo nome.
+
+Exiba toda a agenda ao final.
+
 ## Concorrência
 
 ### 1. Contador Simples com Runnable
