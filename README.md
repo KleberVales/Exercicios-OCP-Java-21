@@ -98,13 +98,10 @@ Objetivo: Criar objetos a partir de uma lista de nomes, utilizando referência a
 Objetivo: Usar ArrayList para armazenar e ordenar dados.
 
 Descrição:
-Crie uma aplicação que:
-
-Peça ao usuário para inserir 5 nomes.
-
-Armazene os nomes em uma ArrayList.
-
-Exiba a lista original e depois a lista ordenada em ordem alfabética.
+* Crie uma aplicação que:
+* Peça ao usuário para inserir 5 nomes.
+* Armazene os nomes em uma ArrayList.
+* Exiba a lista original e depois a lista ordenada em ordem alfabética.
 
 ### 2. Conjunto de Palavras Únicas
 Objetivo: Usar HashSet para evitar duplicatas.
