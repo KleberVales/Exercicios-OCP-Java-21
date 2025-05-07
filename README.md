@@ -106,6 +106,18 @@ Armazene os nomes em uma ArrayList.
 
 Exiba a lista original e depois a lista ordenada em ordem alfabética.
 
+### 2. Conjunto de Palavras Únicas
+Objetivo: Usar HashSet para evitar duplicatas.
+
+Descrição:
+Crie uma aplicação que:
+
+Permita ao usuário digitar palavras até digitar "sair".
+
+Armazene as palavras em um HashSet.
+
+Ao final, exiba todas as palavras digitadas, sem repetições.
+
 ## Concorrência
 
 ### 1. Contador Simples com Runnable
