@@ -108,12 +108,9 @@ Objetivo: Usar HashSet para evitar duplicatas.
 
 Descrição:
 Crie uma aplicação que:
-
-Permita ao usuário digitar palavras até digitar "sair".
-
-Armazene as palavras em um HashSet.
-
-Ao final, exiba todas as palavras digitadas, sem repetições.
+* Permita ao usuário digitar palavras até digitar "sair".
+* Armazene as palavras em um HashSet.
+* Ao final, exiba todas as palavras digitadas, sem repetições.
 
 ### 3. Agenda Telefônica com Map
 Objetivo: Usar HashMap para associar chaves e valores.
