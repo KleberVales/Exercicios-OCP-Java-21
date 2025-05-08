@@ -92,6 +92,35 @@ Objetivo: Criar uma lista de nomes e ordená-los ignorando maiúsculas e minúsc
 ### 6. Referência a construtor
 Objetivo: Criar objetos a partir de uma lista de nomes, utilizando referência a construtor.
 
+## Coleções e Genéricos
+
+### 1. Lista de Nomes com Ordenação
+Objetivo: Usar ArrayList para armazenar e ordenar dados.
+
+Descrição:
+* Crie uma aplicação que:
+* Peça ao usuário para inserir 5 nomes.
+* Armazene os nomes em uma ArrayList.
+* Exiba a lista original e depois a lista ordenada em ordem alfabética.
+
+### 2. Conjunto de Palavras Únicas
+Objetivo: Usar HashSet para evitar duplicatas.
+
+Descrição:
+Crie uma aplicação que:
+* Permita ao usuário digitar palavras até digitar "sair".
+* Armazene as palavras em um HashSet.
+* Ao final, exiba todas as palavras digitadas, sem repetições.
+
+### 3. Agenda Telefônica com Map
+Objetivo: Usar HashMap para associar chaves e valores.
+
+Descrição:
+* Crie uma agenda telefônica simples que:
+* Permita adicionar nomes e números de telefone (chave = nome, valor = telefone).
+* Permita buscar um telefone pelo nome.
+* Exiba toda a agenda ao final.
+
 ## Concorrência
 
 ### 1. Contador Simples com Runnable
