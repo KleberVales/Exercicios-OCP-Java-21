@@ -59,6 +59,10 @@ Implemente uma classe Produto que represente um produto com os atributos nome e 
 ## Metodos
 
 #### 1. Criar e chamar um método de saudação
+Enunciado:
+Crie uma classe chamada Saudacao. Dentro dela, crie um método chamado mostrarSaudacao que exibe a mensagem "Olá, bem-vindo ao sistema!".
+Depois, crie o método executar que chama o método mostrarSaudacao.
+Por fim, na função main, crie um objeto da classe e invoque o método executar.
 
 ## Lambdas and Functional Interfaces
 
