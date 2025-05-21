@@ -66,6 +66,12 @@ Por fim, na função main, crie um objeto da classe e invoque o método executar
 
 #### 2. Criar método para somar dois números
 Enunciado:\
+Crie uma classe chamada CalculadoraSimples.\
+Dentro dela, crie um método somar que receba dois números inteiros como parâmetros e retorne a soma deles.\
+Depois, crie um método executar que chame o método somar com os valores 5 e 7, e exiba o resultado.\
+Na função main, crie um objeto da classe e invoque o método executar.
+
+
 
 ## Lambdas and Functional Interfaces
 
