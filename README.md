@@ -2,52 +2,53 @@
 
 ## Fundamentos do Java
 
-### 1. Criando e Usando Objetos
+#### 1. Criando e Usando Objetos
 Objetivo: Praticar a criação de objetos e o uso de variáveis.
 
-### 2. Destruição de Objetos e Coleta de Lixo (Garbage Collector)
+#### 2. Destruição de Objetos e Coleta de Lixo (Garbage Collector)
 Objetivo: Compreender a destruição de objetos e como o garbage collector funciona.
 
-### 3. Tipos e Escopo de Variáveis
+#### 3. Tipos e Escopo de Variáveis
 Objetivo: Entender a diferença entre variáveis de instância, locais e estáticas, além dos tipos.
 
 ## Operadores
-### 1. Crie um programa que receba dois números inteiros e exiba: 
+#### 1. Crie um programa que receba dois números inteiros e exiba: 
 A soma, A subtração, A multiplicação, A divisão e O resto da divisão (módulo)
 
-### 2. Operadores Relacionais e Lógicos
+#### 2. Operadores Relacionais e Lógicos
 Faça um programa que peça dois números e:\
 Verifique se o primeiro número é maior que o segundo e positivo.\
 Verifique se os dois números são diferentes ou iguais a zero.
 
-### 3. Operador Ternário
+#### 3. Operador Ternário
 Peça a idade do usuário e use operador ternário para exibir:\
 "Maior de idade" se a idade for 18 ou mais\
 "Menor de idade" caso contrário
 
+
 ## Estrutura de decisão
 
-### 1. Verificar se um número é positivo, negativo ou zero
+#### 1. Verificar se um número é positivo, negativo ou zero
 Escreva um programa que leia um número inteiro do usuário e informe se ele é positivo, negativo ou zero.
 
-### 2. Verificar se uma pessoa pode votar
+#### 2. Verificar se uma pessoa pode votar
 Faça um programa que leia a idade de uma pessoa e diga se ela não pode votar (menor de 16 anos), voto opcional (entre 16 e 17 ou maior de 65 anos) ou voto obrigatório (entre 18 e 65 anos inclusive).
 
-### 3. Calculadora simples
+#### 3. Calculadora simples
 Peça dois números ao usuário e depois peça a operação desejada (+, -, *, /). Use uma estrutura de decisão para calcular o resultado com base na operação escolhida.
 
 ## Core Apps
-### 1. Herança
+#### 1. Herança
 Crie uma classe chamada Pessoa com os atributos nome e idade, e um método apresentar() que imprime esses dados.
 Em seguida, crie uma subclasse chamada Estudante que herda de Pessoa e adiciona o atributo curso e o método estudar(), que imprime que o estudante está estudando determinado curso.
 Instancie um objeto da classe Estudante, chame o método herdado apresentar() e o método estudar().
 
-### 2. Classe Abstrata
+#### 2. Classe Abstrata
 Crie uma classe abstrata chamada Animal com o atributo nome e um método abstrato emitirSom().
 Depois, crie uma subclasse chamada Cachorro que implementa o método emitirSom() exibindo "Au Au!".
 No método main, crie um objeto Cachorro usando o tipo abstrato Animal e chame o método emitirSom().
 
-### 3. Objeto Imutável
+#### 3. Objeto Imutável
 Implemente uma classe Produto que represente um produto com os atributos nome e preco.
 - A classe deve ser imutável, ou seja:
 - Os atributos devem ser private final
@@ -71,6 +72,12 @@ Dentro dela, crie um método somar que receba dois números inteiros como parâm
 Depois, crie um método executar que chame o método somar com os valores 5 e 7, e exiba o resultado.\
 Na função main, crie um objeto da classe e invoque o método executar.
 
+#### 3. Criar método para verificar se número é par
+Enunciado:\
+Crie uma classe chamada VerificadorDeParidade.\
+Crie um método ehPar que receba um número inteiro como parâmetro e retorne true se for par ou false se for ímpar.\
+Depois, crie um método executar que chame o método ehPar para o número 10 e exiba uma mensagem dizendo se o número é par ou ímpar.\
+Na função main, crie um objeto da classe e invoque o método executar.
 
 
 ## Lambdas and Functional Interfaces
