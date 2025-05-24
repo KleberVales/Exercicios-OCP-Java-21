@@ -4,3 +4,4 @@
 ## Operators
 ## Making Decisions
 ## Core APIs
+## Methods
