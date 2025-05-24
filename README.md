@@ -5,3 +5,4 @@
 ## Making Decisions
 ## Core APIs
 ## Methods
+## Class Design
