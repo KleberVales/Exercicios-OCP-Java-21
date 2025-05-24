@@ -79,6 +79,8 @@ Crie um método ehPar que receba um número inteiro como parâmetro e retorne tr
 Depois, crie um método executar que chame o método ehPar para o número 10 e exiba uma mensagem dizendo se o número é par ou ímpar.\
 Na função main, crie um objeto da classe e invoque o método executar.
 
+## Desing de Classe
+
 
 ## Lambdas and Functional Interfaces
 
