@@ -10,3 +10,4 @@
 ## Lambdas and Functional Interfaces
 ## Collections and Generics
 ## Streams
+## Exceptions and Localization
