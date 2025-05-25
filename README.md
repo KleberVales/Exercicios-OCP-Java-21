@@ -24,6 +24,18 @@ public class SomaArgs {
 }
 ```
 3. Method with varargs
+```java
+public class VarargsExample {
+    public static void printAll(String... values) {
+        // Implemente este método para imprimir todos os valores
+    }
+    
+    public static void main(String[] args) {
+        printAll("A", "B", "C");
+        printAll("Java", "Python", "C++", "JavaScript");
+    }
+}
+```
 
 ## Operators
 ## Making Decisions
