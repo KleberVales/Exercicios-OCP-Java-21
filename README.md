@@ -13,6 +13,8 @@ public class Main {
     }
 }
 ```
+2. Sum of arguments
+Complete o programa para somar todos os argumentos numéricos passados.
 
 ## Operators
 ## Making Decisions
