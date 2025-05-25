@@ -6,6 +6,13 @@
 
 1. Simple main method\
 Modify the program to print each argument passed on the command line, one per line.
+```
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Meu primeiro programa Java!");
+    }
+}
+```
 
 ## Operators
 ## Making Decisions
