@@ -23,6 +23,7 @@ public class SomaArgs {
     }
 }
 ```
+3. Method with varargs
 
 ## Operators
 ## Making Decisions
