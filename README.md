@@ -14,7 +14,7 @@ public class Main {
 }
 ```
 2. Sum of arguments\
-Complete o programa para somar todos os argumentos numéricos passados.
+Complete the program to sum all the numeric arguments passed.
 ```java
 public class SomaArgs {
     public static void main(String[] args) {
