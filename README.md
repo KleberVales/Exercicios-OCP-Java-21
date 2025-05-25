@@ -4,6 +4,9 @@
 
 ### Writing a main() Method
 
+1. Simple main method
+Modify the program to print each argument passed on the command line, one per line.
+
 ## Operators
 ## Making Decisions
 ## Core APIs
