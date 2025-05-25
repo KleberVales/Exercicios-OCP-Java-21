@@ -4,7 +4,7 @@
 
 ### Writing a main() Method
 
-1. Simple main method\
+#### 1. Simple main method\
 Modify the program to print each argument passed on the command line, one per line.
 ```java
 public class Main {
@@ -13,7 +13,7 @@ public class Main {
     }
 }
 ```
-2. Sum of arguments\
+#### 2. Sum of arguments\
 Complete the program to sum all the numeric arguments passed.
 ```java
 public class SomaArgs {
@@ -23,7 +23,7 @@ public class SomaArgs {
     }
 }
 ```
-3. Method with varargs
+#### 3. Method with varargs
 ```java
 public class VarargsExample {
     public static void printAll(String... values) {
