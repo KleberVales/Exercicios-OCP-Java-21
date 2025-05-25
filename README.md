@@ -27,7 +27,7 @@ public class SomaArgs {
 ```java
 public class VarargsExample {
     public static void printAll(String... values) {
-        // Implemente este método para imprimir todos os valores
+        // Implement this method to print all values
     }
     
     public static void main(String[] args) {
