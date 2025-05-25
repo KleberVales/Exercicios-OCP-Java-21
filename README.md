@@ -15,6 +15,14 @@ public class Main {
 ```
 2. Sum of arguments\
 Complete o programa para somar todos os argumentos numéricos passados.
+```java
+public class SomaArgs {
+    public static void main(String[] args) {
+        // Implemente a soma dos argumentos passados
+        // Dica: use Integer.parseInt() para converter String para int
+    }
+}
+```
 
 ## Operators
 ## Making Decisions
