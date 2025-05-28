@@ -43,6 +43,21 @@ public class VarargsExample {
 
 #### 1. Check if a number is even or odd
 
+```java
+import java.util.Scanner;
+
+public class ParOuImpar {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Digite um número: ");
+        int numero = scanner.nextInt();
+        
+        String resultado = (numero % 2 == 0) ? "par" : "ímpar";
+        System.out.println("O número " + numero + " é " + resultado);
+    }
+}
+```
+
 ## Making Decisions
 ## Core APIs
 ## Methods
