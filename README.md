@@ -38,6 +38,9 @@ public class VarargsExample {
 ```
 
 ## Operators
+
+### Making Decisions with the Ternary Operator
+
 ## Making Decisions
 ## Core APIs
 ## Methods
