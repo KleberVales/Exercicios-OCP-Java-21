@@ -41,6 +41,8 @@ public class VarargsExample {
 
 ### Making Decisions with the Ternary Operator
 
+#### 4. Check if a number is even or odd
+
 ## Making Decisions
 ## Core APIs
 ## Methods
