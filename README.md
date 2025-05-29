@@ -58,6 +58,8 @@ public class PositiveNegative {
 ```
 #### Conditional discount
 
+* Use a ternary operator to calculate the final price with a different discount for premium customers
+
 #### 3. Grade classification
 * Implement a series of nested ternary operators to provide appropriate grading based on the student's grade
 ```java
