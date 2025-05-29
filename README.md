@@ -59,6 +59,20 @@ public class PositiveNegative {
 #### Conditional discount
 
 * Use a ternary operator to calculate the final price with a different discount for premium customers
+```java
+public class DescontoProduto {
+    public static void main(String[] args) {
+        double preco = 150.0;
+        boolean clientePremium = true; // Altere para false para testar
+        
+        // Aplique 20% de desconto se for cliente premium, 5% caso contrário
+        double precoFinal = /* seu código aqui */;
+        
+        System.out.printf("Preço original: R$%.2f%n", preco);
+        System.out.printf("Preço final: R$%.2f%n", precoFinal);
+    }
+}
+```
 
 #### 3. Grade classification
 * Implement a series of nested ternary operators to provide appropriate grading based on the student's grade
