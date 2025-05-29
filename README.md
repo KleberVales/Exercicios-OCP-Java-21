@@ -44,6 +44,18 @@ public class VarargsExample {
 #### 1. Positive/Negative Number Check
 
 * Complete the code using a ternary operator so that it prints "positive" or "negative" depending on the value of the number variable.
+```java
+public class PositivoNegativo {
+    public static void main(String[] args) {
+        int numero = 10; // Altere este valor para testar
+        
+        // Use operador ternário para determinar se é positivo ou negativo
+        String resultado = /* seu código aqui */;
+        
+        System.out.println("O número " + numero + " é " + resultado);
+    }
+}
+```
 
 #### 3. Grade classification
 * Implement a series of nested ternary operators to provide appropriate grading based on the student's grade
