@@ -42,7 +42,7 @@ public class VarargsExample {
 ### Making Decisions with the Ternary Operator
 
 #### 1. Grade classification
-
+* Implement a series of nested ternary operators to provide appropriate grading based on the student's grade
 ```java
 public class StudentClassification {
     public static void main(String[] args) {
