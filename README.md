@@ -45,14 +45,14 @@ public class VarargsExample {
 
 * Complete the code using a ternary operator so that it prints "positive" or "negative" depending on the value of the number variable.
 ```java
-public class PositivoNegativo {
+public class PositiveNegative {
     public static void main(String[] args) {
-        int numero = 10; // Altere este valor para testar
+        int number = 10; // Change this value to test
         
-        // Use operador ternário para determinar se é positivo ou negativo
-        String resultado = /* seu código aqui */;
+        // Use ternary operator to determine whether it is positive or negative
+        String result = /* your code here */;
         
-        System.out.println("O número " + numero + " é " + resultado);
+        System.out.println("O number " + number + " is " + result);
     }
 }
 ```
