@@ -56,20 +56,20 @@ public class PositiveNegative {
     }
 }
 ```
-#### Conditional discount
+#### 1. Conditional discount
 
 * Use a ternary operator to calculate the final price with a different discount for premium customers
 ```java
-public class DescontoProduto {
+public class DiscountProduct {
     public static void main(String[] args) {
         double preco = 150.0;
-        boolean clientePremium = true; // Altere para false para testar
+        boolean PremiumClient = true; // Change to false to test
         
-        // Aplique 20% de desconto se for cliente premium, 5% caso contrário
-        double precoFinal = /* seu código aqui */;
+        // Apply 20% discount if you are a premium customer, 5% otherwise
+        double finalprice = /* your code here */;
         
-        System.out.printf("Preço original: R$%.2f%n", preco);
-        System.out.printf("Preço final: R$%.2f%n", precoFinal);
+        System.out.printf("Original price: R$%.2f%n", preco);
+        System.out.printf("Final price: R$%.2f%n", finalprice);
     }
 }
 ```
