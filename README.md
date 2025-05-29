@@ -43,6 +43,8 @@ public class VarargsExample {
 
 #### 1. Positive/Negative Number Check
 
+* Complete the code using a ternary operator so that it prints "positive" or "negative" depending on the value of the number variable.
+
 #### 3. Grade classification
 * Implement a series of nested ternary operators to provide appropriate grading based on the student's grade
 ```java
