@@ -41,19 +41,21 @@ public class VarargsExample {
 
 ### Making Decisions with the Ternary Operator
 
-#### 1. Check if a number is even or odd
+#### 1. Grade classification
 
 ```java
-import java.util.Scanner;
-
-public class ParOuImpar {
+public class StudentClassification {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Digite um número: ");
-        int numero = scanner.nextInt();
+        double note = 7.5; // Change this value to test
         
-        String resultado = (numero % 2 == 0) ? "par" : "ímpar";
-        System.out.println("O número " + numero + " é " + resultado);
+        // Use nested ternary operators to sort:
+        // >= 9 → "Excellent"
+        // >= 7 → "Good"
+        // >= 5 → "Regular"
+        // < 5 → "Insufficient"
+        String classification = /* your code here */;
+        
+        System.out.println("Note: " + note + " - " + classification);
     }
 }
 ```
