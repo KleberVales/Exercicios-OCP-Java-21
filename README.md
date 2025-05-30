@@ -95,6 +95,9 @@ public class StudentClassification {
 
 ## Making Decisions
 ## Core APIs
+
+### Creating and Manipulating Strings
+
 ## Methods
 ## Class Design
 ## Beyond Classes
