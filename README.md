@@ -100,6 +100,8 @@ public class StudentClassification {
 
 #### 1. String Concatention and Length
 
+* Complete the code to concatenate the strings and calculate the length of the full name
+
 ## Methods
 ## Class Design
 ## Beyond Classes
