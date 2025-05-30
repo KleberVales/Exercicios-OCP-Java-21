@@ -102,6 +102,24 @@ public class StudentClassification {
 
 * Complete the code to concatenate the strings and calculate the length of the full name
 
+```java
+public class StringBasic {
+    public static void main(String[] args) {
+        String fistname = "João";
+        String lastname = "Silva";
+        
+        // 1. Concatenate firstName and lastName with a space between them
+        String fullName = /* your code here */;
+        
+        // 2. Calculate the total length of the full name (including spaces)
+        int sizeName = /* your code here */;
+        
+        System.out.println("Full name: " + fullName);
+        System.out.println("Name size: " + sizeName + " characters");
+    }
+}
+```
+
 ## Methods
 ## Class Design
 ## Beyond Classes
