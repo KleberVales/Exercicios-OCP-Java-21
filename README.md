@@ -124,6 +124,28 @@ public class StringBasic {
 
 * Implement the requested string manipulation operations
 
+```java
+public class StringManipulation {
+    public static void main(String[] args) {
+        String text = "Java is a powerful programming language!";
+        
+        // 1. Convert all text to uppercase
+        String uppercase = /* your code here */;
+        
+        // 2. Replace all vowels 'a' with '4'
+        String substituted = /* your code here */;
+        
+        // 3. Extract the word "language" from the original text
+        String wordExtracted = /* your code here */;
+        
+        System.out.println("Original: " + text);
+        System.out.println("Uppercase: " + uppercase);
+        System.out.println("Substituted: " + substituted);
+        System.out.println("Word Extracted: " + wordExtracted);
+    }
+}
+```
+
 ## Methods
 ## Class Design
 ## Beyond Classes
