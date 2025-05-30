@@ -148,6 +148,8 @@ public class StringManipulation {
 
 3. String Comparison and Analysis
 
+* Implement the requested checks for password string parsing
+
 ## Methods
 ## Class Design
 ## Beyond Classes
