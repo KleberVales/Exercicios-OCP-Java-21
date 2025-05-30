@@ -150,6 +150,31 @@ public class StringManipulation {
 
 * Implement the requested checks for password string parsing
 
+```java
+public class AnalyzeString {
+    public static void main(String[] args) {
+        String password = "SeguraSegura123";
+        String attempt = "segurasenha123";
+
+        // 1. Check if the strings are equal (case sensitive)
+        boolean equalCaseSensitive = /* your code here */;
+
+        // 2. Check if they are equal ignoring upper/lower case
+        boolean equalIgnoreCase = /* your code here */;
+
+        // 3. Check if the password has at least 8 characters
+        boolean tamanhoMinimo = /* your code here */;
+
+        // 4. Check if the password contains at least one number
+        boolean containsNumber = /* your code here */;
+
+        System.out.println("Equal (case sensitive): " + equalCaseSensitive); System.out.println("Equals (ignore case): " + equalsIgnoreCase);
+        System.out.println("Has minimum size: " + minimumsize);
+        System.out.println("Contains number: " + containsNumber);
+    }
+}
+```
+
 ## Methods
 ## Class Design
 ## Beyond Classes
