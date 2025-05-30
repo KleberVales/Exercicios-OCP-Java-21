@@ -146,6 +146,8 @@ public class StringManipulation {
 }
 ```
 
+3. String Comparison and Analysis
+
 ## Methods
 ## Class Design
 ## Beyond Classes
