@@ -120,6 +120,10 @@ public class StringBasic {
 }
 ```
 
+#### 2. String Manipulation (Casting, Lowercase, and Substitution)
+
+* Implement the requested string manipulation operations
+
 ## Methods
 ## Class Design
 ## Beyond Classes
