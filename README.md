@@ -98,6 +98,8 @@ public class StudentClassification {
 
 ### Creating and Manipulating Strings
 
+#### 1. String Concatention and Length
+
 ## Methods
 ## Class Design
 ## Beyond Classes
