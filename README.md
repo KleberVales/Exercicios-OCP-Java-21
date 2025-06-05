@@ -184,6 +184,8 @@ public class AnalyzeString {
 
 #### 1. Filtragem e Contagem com Streams
 
+* Complete usando filter() e count() para obter os resultados
+
 ## Exceptions and Localization
 ## Modules
 ## Concurrency
