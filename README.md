@@ -181,6 +181,9 @@ public class AnalyzeString {
 ## Lambdas and Functional Interfaces
 ## Collections and Generics
 ## Streams
+
+#### 1. Filtragem e Contagem com Streams
+
 ## Exceptions and Localization
 ## Modules
 ## Concurrency
