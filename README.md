@@ -209,6 +209,25 @@ public class FiltroStream {
 
 * Implemente usando map(), filter(), reduce() e collect()
 
+```java
+import java.util.List;
+
+public class TransformacaoStream {
+    public static void main(String[] args) {
+        List<String> palavras = List.of("java", "stream", "api", "lambda", "method", "reference");
+        
+        // 1. Mapear para o tamanho de cada palavra e calcular a soma total
+        int somaTamanhos = /* seu código aqui */;
+        
+        // 2. Filtrar palavras com mais de 4 letras e transformar em maiúsculas
+        List<String> palavrasFiltradas = /* seu código aqui */;
+        
+        System.out.println("Soma dos tamanhos: " + somaTamanhos);
+        System.out.println("Palavras filtradas: " + palavrasFiltradas);
+    }
+}
+```
+
 ## Exceptions and Localization
 ## Modules
 ## Concurrency
