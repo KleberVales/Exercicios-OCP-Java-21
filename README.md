@@ -207,6 +207,8 @@ public class FiltroStream {
 
 #### 2. Transformação e Redução com Streams
 
+* Implemente usando map(), filter(), reduce() e collect()
+
 ## Exceptions and Localization
 ## Modules
 ## Concurrency
