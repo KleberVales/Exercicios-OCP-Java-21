@@ -186,6 +186,25 @@ public class AnalyzeString {
 
 * Complete usando filter() e count() para obter os resultados
 
+```java
+import java.util.List;
+
+public class FiltroStream {
+    public static void main(String[] args) {
+        List<Integer> numeros = List.of(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
+        
+        // 1. Filtrar apenas números pares
+        long quantidadePares = /* seu código aqui */;
+        
+        // 2. Filtrar números maiores que 5
+        long maioresQueCinco = /* seu código aqui */;
+        
+        System.out.println("Quantidade de números pares: " + quantidadePares);
+        System.out.println("Quantidade > 5: " + maioresQueCinco);
+    }
+}
+```
+
 ## Exceptions and Localization
 ## Modules
 ## Concurrency
