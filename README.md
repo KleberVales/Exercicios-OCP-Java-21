@@ -205,6 +205,8 @@ public class FiltroStream {
 }
 ```
 
+#### 2. Transformação e Redução com Streams
+
 ## Exceptions and Localization
 ## Modules
 ## Concurrency
