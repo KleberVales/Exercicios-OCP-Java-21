@@ -230,6 +230,8 @@ public class TransformacaoStream {
 
 #### 3. Streams com Objetos Complexos
 
+* Implemente usando filter(), map(), average(), min() e Collectors
+
 ## Exceptions and Localization
 ## Modules
 ## Concurrency
