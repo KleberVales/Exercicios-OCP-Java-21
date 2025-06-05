@@ -232,6 +232,48 @@ public class TransformacaoStream {
 
 * Implemente usando filter(), map(), average(), min() e Collectors
 
+```java
+import java.util.List;
+import java.util.stream.Collectors;
+
+class Produto {
+    String nome;
+    double preco;
+    
+    Produto(String nome, double preco) {
+        this.nome = nome;
+        this.preco = preco;
+    }
+    
+    public String getNome() { return nome; }
+    public double getPreco() { return preco; }
+}
+
+public class StreamProdutos {
+    public static void main(String[] args) {
+        List<Produto> produtos = List.of(
+            new Produto("Notebook", 3500.0),
+            new Produto("Smartphone", 2500.0),
+            new Produto("Tablet", 1800.0),
+            new Produto("Monitor", 1200.0)
+        );
+        
+        // 1. Listar nomes dos produtos com preço > 2000
+        List<String> produtosCaros = /* seu código aqui */;
+        
+        // 2. Calcular preço médio dos produtos
+        double precoMedio = /* seu código aqui */;
+        
+        // 3. Encontrar o produto mais barato
+        String maisBarato = /* seu código aqui */;
+        
+        System.out.println("Produtos caros: " + produtosCaros);
+        System.out.println("Preço médio: " + precoMedio);
+        System.out.println("Mais barato: " + maisBarato);
+    }
+}
+```
+
 ## Exceptions and Localization
 ## Modules
 ## Concurrency
