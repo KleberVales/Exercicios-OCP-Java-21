@@ -200,6 +200,8 @@ public class CalculadoraBasica {
 }
 ```
 
+#### 2. Métodos com Sobrecarga (Overload)
+
 ## Class Design
 ## Beyond Classes
 ## Lambdas and Functional Interfaces
