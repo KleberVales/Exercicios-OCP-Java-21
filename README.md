@@ -229,6 +229,27 @@ public class SobrecargaMetodos {
 ```
 #### 3. Métodos Recursivos
 * Implemente os métodos recursivos calcularFatorial() e fibonacci()
+```java
+public class Recursao {
+    public static void main(String[] args) {
+        // Teste seus métodos recursivos
+        System.out.println("Fatorial de 5: " + calcularFatorial(5));
+        System.out.println("Fibonacci(7): " + fibonacci(7));
+    }
+    
+    // 1. Método recursivo para calcular fatorial (n!)
+    public static /* complete */ {
+        // caso base: fatorial de 0 ou 1 é 1
+        // caso recursivo: n * fatorial(n-1)
+    }
+    
+    // 2. Método recursivo para série de Fibonacci
+    public static /* complete */ {
+        // caso base: fib(0)=0, fib(1)=1
+        // caso recursivo: fib(n-1) + fib(n-2)
+    }
+}
+```
 
 ## Class Design
 ## Beyond Classes
