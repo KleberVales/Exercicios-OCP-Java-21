@@ -201,6 +201,7 @@ public class CalculadoraBasica {
 ```
 
 #### 2. Métodos com Sobrecarga (Overload)
+* Implemente três versões sobrecarregadas do método calcularArea()
 
 ## Class Design
 ## Beyond Classes
