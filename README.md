@@ -176,6 +176,9 @@ public class AnalyzeString {
 ```
 
 ## Methods
+
+#### 1. Método de Cálculo Simples
+
 ## Class Design
 ## Beyond Classes
 ## Lambdas and Functional Interfaces
