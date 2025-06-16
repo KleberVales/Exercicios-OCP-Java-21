@@ -202,6 +202,31 @@ public class CalculadoraBasica {
 
 #### 2. Métodos com Sobrecarga (Overload)
 * Implemente três versões sobrecarregadas do método calcularArea()
+```java
+public class SobrecargaMetodos {
+    public static void main(String[] args) {
+        // Teste todas as versões do método calcularArea
+        System.out.println("Área do quadrado: " + calcularArea(5));
+        System.out.println("Área do retângulo: " + calcularArea(4, 6));
+        System.out.println("Área do círculo: " + calcularArea(3.0));
+    }
+    
+    // 1. Crie um método para calcular área do quadrado (lado × lado)
+    public static /* complete */ {
+        // implementação
+    }
+    
+    // 2. Sobrecarregue o método para retângulo (base × altura)
+    public static /* complete */ {
+        // implementação
+    }
+    
+    // 3. Sobrecarregue o método para círculo (π × raio²)
+    public static /* complete */ {
+        // implementação (use Math.PI)
+    }
+}
+```
 
 ## Class Design
 ## Beyond Classes
