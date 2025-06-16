@@ -180,6 +180,26 @@ public class AnalyzeString {
 #### 1. Método de Cálculo Simples
 * Implemente os métodos somar() e encontrarMaior()
 
+```java
+public class CalculadoraBasica {
+    public static void main(String[] args) {
+        // Teste seus métodos aqui
+        System.out.println("Soma: " + somar(5, 3));
+        System.out.println("Maior número: " + encontrarMaior(10, 20));
+    }
+    
+    // 1. Crie um método para somar dois números inteiros
+    public static /* complete */ {
+        // implementação
+    }
+    
+    // 2. Crie um método para encontrar o maior entre dois números
+    public static /* complete */ {
+        // implementação
+    }
+}
+```
+
 ## Class Design
 ## Beyond Classes
 ## Lambdas and Functional Interfaces
