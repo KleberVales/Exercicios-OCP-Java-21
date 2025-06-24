@@ -252,6 +252,9 @@ public class Recursao {
 ```
 
 ## Class Design
+
+#### 1. Classe Pessoa com Encapsulamento
+
 ## Beyond Classes
 ## Lambdas and Functional Interfaces
 ## Collections and Generics
