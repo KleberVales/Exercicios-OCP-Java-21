@@ -257,6 +257,8 @@ public class Recursao {
 
 - Você está desenvolvendo um sistema para clínicas médicas e precisa criar uma classe Paciente que atenda aos rigorosos requisitos de privacidade de dados de saúde.
 
+* Tarefa: Implemente a classe Paciente com:
+
 ## Beyond Classes
 ## Lambdas and Functional Interfaces
 ## Collections and Generics
