@@ -253,7 +253,7 @@ public class Recursao {
 
 ## Class Design
 
-#### 1. Classe Pessoa com Encapsulamento
+#### 1. Modelagem de Classe com Encapsulamento
 
 ## Beyond Classes
 ## Lambdas and Functional Interfaces
