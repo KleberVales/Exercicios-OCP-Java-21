@@ -270,6 +270,12 @@ public class Recursao {
   - O CPF deve ser validado (apenas verifique se tem 11 dígitos numéricos)
   - O tipo sanguíneo deve ser um dos valores válidos: A+, A-, B+, B-, AB+, AB-, O+, O-
   - O histórico médico só pode ser acessado ou modificado através de métodos específicos
+ 
+* Implemente:
+  - Um construtor completo com validações
+  - Getters e setters apropriados
+  - Métodos adicionarRegistroHistorico(String registro) e listarHistorico()
+  - Um método calcularIdade() que retorna a idade em anos
 
 ## Beyond Classes
 ## Lambdas and Functional Interfaces
