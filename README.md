@@ -276,6 +276,26 @@ public class Recursao {
   - Getters e setters apropriados
   - Métodos adicionarRegistroHistorico(String registro) e listarHistorico()
   - Um método calcularIdade() que retorna a idade em anos
+ 
+```java
+public class ClinicaTest {
+    public static void main(String[] args) {
+        try {
+            Paciente p = new Paciente("Maria da Silva", LocalDate.of(1985, 5, 15), 
+                          "12345678901", "A+");
+            
+            p.adicionarRegistroHistorico("Alergia a penicilina");
+            p.adicionarRegistroHistorico("Cirurgia de apêndice em 2010");
+            
+            System.out.println("Idade: " + p.calcularIdade() + " anos");
+            System.out.println("Histórico: " + p.listarHistorico());
+            
+        } catch (IllegalArgumentException e) {
+            System.err.println("Erro ao criar paciente: " + e.getMessage());
+        }
+    }
+}
+```
 
 ## Beyond Classes
 ## Lambdas and Functional Interfaces
