@@ -255,6 +255,8 @@ public class Recursao {
 
 #### 1. Modelagem de Classe com Encapsulamento
 
+- Você está desenvolvendo um sistema para clínicas médicas e precisa criar uma classe Paciente que atenda aos rigorosos requisitos de privacidade de dados de saúde.
+
 ## Beyond Classes
 ## Lambdas and Functional Interfaces
 ## Collections and Generics
