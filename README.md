@@ -265,6 +265,11 @@ public class Recursao {
     - cpf (String)
     - tipoSanguineo (String)
     - historicoMedico (List<String>)
+ 
+* Regras de negócio:
+  - O CPF deve ser validado (apenas verifique se tem 11 dígitos numéricos)
+  - O tipo sanguíneo deve ser um dos valores válidos: A+, A-, B+, B-, AB+, AB-, O+, O-
+  - O histórico médico só pode ser acessado ou modificado através de métodos específicos
 
 ## Beyond Classes
 ## Lambdas and Functional Interfaces
